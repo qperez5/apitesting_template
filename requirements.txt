@@ -1,0 +1,6 @@
+behave
+allure-behave
+requests
+pyhamcrest
+jsonpath-ng
+validate_email
